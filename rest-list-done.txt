@@ -1,0 +1,2 @@
+curl.exe http://localhost:5000/accounts 
+[{"name":"John"}] 

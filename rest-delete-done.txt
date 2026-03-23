@@ -1,0 +1,2 @@
+curl.exe -X DELETE http://localhost:5000/accounts/0 
+204 NO CONTENT 

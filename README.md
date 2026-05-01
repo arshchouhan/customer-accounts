@@ -100,12 +100,13 @@ Managing application revisions, traffic splitting, and real-time instance monito
    <img src="assets/Screenshot%202026-03-23%20213131.png" alt="Application List" width="32%"/>
 </p>
 
-### 🔹 Phase 5: The Final Platform
-The successfully integrated dealer evaluation platform in action.
+### 🔹 Phase 5: The Final Integrated Platform
+The successfully integrated dealer evaluation platform, featuring the real-time product price comparison engine.
 
 <p align="center">
-   <img src="assets/Screenshot%202026-03-23%20211828.png" alt="Dealer List UI" width="49%"/>
-   <img src="assets/Screenshot%202026-03-23%20212155.png" alt="Pricing Results" width="49%"/>
+   <img src="assets/Screenshot%202026-03-23%20224929.png" alt="Product Selection" width="32%"/>
+   <img src="assets/Screenshot%202026-03-23%20225055.png" alt="Dealer Selection" width="32%"/>
+   <img src="assets/Screenshot%202026-03-23%20225200.png" alt="Final Price Comparison Output" width="32%"/>
 </p>
 
 ---

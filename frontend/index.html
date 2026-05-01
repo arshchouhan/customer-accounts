@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products Price Comparison | Dealer Evaluation Platform</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Products price comparison</h1>
+            <p class="subtitle">Microservices-driven real-time dealer evaluation</p>
+        </header>
+
+        <main class="card">
+            <div class="form-group">
+                <label for="product-select">Select Product</label>
+                <select id="product-select" class="custom-select">
+                    <option value="">--SELECT--</option>
+                    <option value="Headphones">Headphones</option>
+                    <option value="Laptop">Laptop</option>
+                    <option value="Mouse">Mouse</option>
+                    <option value="Printer">Printer</option>
+                </select>
+            </div>
+
+            <div id="dealer-container" class="form-group hidden">
+                <label for="dealer-select">Select Dealer</label>
+                <select id="dealer-select" class="custom-select">
+                    <option value="">--SELECT--</option>
+                    <option value="DXC Electronics">DXC Electronics</option>
+                    <option value="Global Tech">Global Tech</option>
+                    <option value="Prime Solutions">Prime Solutions</option>
+                </select>
+            </div>
+
+            <div id="result-container" class="result-area hidden">
+                <div class="result-badge">Best Quote Found</div>
+                <h2 id="result-text"></h2>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by IBM Code Engine & Cloud-Native Microservices</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

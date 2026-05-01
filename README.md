@@ -68,7 +68,9 @@ Each service is independently deployable and communicates over REST APIs, allowi
 ### Cloud Deployment on IBM Code Engine
 
 <p align="center">
-   <img src="assets/Screenshot%202026-03-23%20214936.png" alt="IBM Code Engine Deployment" width="900"/>
+   <img src="assets/Screenshot%202026-03-23%20224929.png" alt="IBM Code Engine Deployment Step 1" width="32%"/>
+   <img src="assets/Screenshot%202026-03-23%20225055.png" alt="IBM Code Engine Deployment Step 2" width="32%"/>
+   <img src="assets/Screenshot%202026-03-23%20225200.png" alt="IBM Code Engine Deployment Step 3" width="32%"/>
 </p>
 
 ### Complete Screenshot Gallery
